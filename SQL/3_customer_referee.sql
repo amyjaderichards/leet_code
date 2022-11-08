@@ -16,7 +16,7 @@ Return the result table in any order.
 
 SELECT name 
     FROM customer
-    WHERE referee_id != 2
+    WHERE referee_id != 2 OR referee_id IS null
 
 /*
 INPUT: 
