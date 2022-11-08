@@ -1,5 +1,5 @@
 # leet_code
-My solutions to various leet code problems
+My solutions to various LeetCode problems
 
 * Algorithms
 * SQL
